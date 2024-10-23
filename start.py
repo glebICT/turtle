@@ -1,4 +1,3 @@
-@ -0,0 +1,15 @@
 import turtle
 import random
 
